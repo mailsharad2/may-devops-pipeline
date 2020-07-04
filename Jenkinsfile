@@ -10,5 +10,6 @@ pipeline
     stage ( 'code complie')
     { steps
      { sh 'echo code ic compiling' }
-    } 
+    }
+  }  
 }
